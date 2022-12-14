@@ -1,1 +1,2 @@
-# simple_shell
+MY ALX Simple Shell Team Project
+
